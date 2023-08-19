@@ -46,7 +46,6 @@ nav a:hover {
 }
 
 .background-image {
-    background-image: url('your-background-image.jpg');
     background-size: cover;
     background-position: center;
     height: 300px;
